@@ -5,7 +5,7 @@ Projeto da escola de programação Dev Media, página estática apresentativa da
 Clique no link para visualizar o projeto:
 [Cafeteria Manhattan](https://erickmantel.github.io/Cafeteria-Manhattan/)
 
-## Tecnologias
+**Tecnologias**
 * HTML
 * CSS
 
